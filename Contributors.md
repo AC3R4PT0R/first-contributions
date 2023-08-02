@@ -1,5 +1,6 @@
 x# Contributors
 !-- prettier-ignore-start --> -[HacFlix](https://github.com/HacFlix)
+[Nico Deng](https://github.com/AC3R4PT0R)
 - [Omphile Mokhuane](https://github.com/OmphileMokhuane/OmphileMokhuane)
 - [Tasmiyah Nakooda](https://github.com/nakoodatasmiyah)
 - [Antyss77](https://github.com/Antyss77)
